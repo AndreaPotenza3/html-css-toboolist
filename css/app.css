@@ -26,6 +26,7 @@ list-style: none;
 
 .main-bar strong{
     font-size: 40px;
+    vertical-align: 12px;
 }
 
 main{
