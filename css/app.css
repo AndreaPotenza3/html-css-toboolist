@@ -84,3 +84,31 @@ span{
     border-style: solid;
 }
 
+ul span{
+    vertical-align: 0;
+    margin-left: 5px;
+}
+
+#q1goals{
+    background-color: purple;
+}
+
+#recruiting{
+    background-color: rgb(60, 211, 161);
+}
+
+#mobile{
+    background-color: orange;
+}
+
+#website{
+    background-color: palevioletred;
+}
+
+#sales{
+    background-color: rgb(62, 148, 13);
+}
+
+.check{
+    color: green;
+}
