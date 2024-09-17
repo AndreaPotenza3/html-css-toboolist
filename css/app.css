@@ -51,6 +51,11 @@ main strong{
     line-height: 50px;
  }
 
+ .main-bar{
+    border-radius: 0 0 0 0;
+    margin-top: 0;
+}
+
  .bar{
     border-radius: 20px 20px 0 0;
     padding-top: 10px;
@@ -71,6 +76,11 @@ span{
     vertical-align: 7px;
 }
 .white-button{
-    margin-left: 20px;
+    margin-left: 8px;
+    background-color: white;
+    color: gray;
+    border-color: gray;
+    border: 1px;
+    border-style: solid;
 }
 
