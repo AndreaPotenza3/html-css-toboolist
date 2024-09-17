@@ -19,23 +19,32 @@ list-style: none;
 
 /* Main Content */
 
-
-.main-bar{
-    background-color: white;
+main{
+    margin-top: 40px;
+    font-size: 20px;
 }
+
+main strong{
+    font-size: 25px;
+}
+
 
 .main-bar strong{
     font-size: 40px;
     vertical-align: 12px;
 }
 
-main{
-    background-color: lightgray;
-}
 .conteiner{
     margin: 0 auto;
-    background-color: rgb(235, 174, 174);
     max-width: 1024px;
     border-radius: 20px;
+}
+
+.content{
+    background-color: bisque;
+ }
+
+ul h3{
+    display: inline;
 }
 
