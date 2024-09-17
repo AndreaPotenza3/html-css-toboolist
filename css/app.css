@@ -49,6 +49,7 @@ main strong{
     border-radius: 0 0 20px 20px;
     margin-top: 5px;
     line-height: 50px;
+    padding-bottom: 20px;
  }
 
  .main-bar{
@@ -59,6 +60,7 @@ main strong{
  .bar{
     border-radius: 20px 20px 0 0;
     padding-top: 10px;
+    padding-bottom: 0px;
 
  }
 
@@ -111,4 +113,10 @@ ul span{
 
 .check{
     color: green;
+    background-color: white;
+}
+
+.cross{
+    color: red;
+    background-color: white;
 }
