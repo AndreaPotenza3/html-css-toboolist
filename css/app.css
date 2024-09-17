@@ -51,9 +51,18 @@ main strong{
     padding-top: 10px;
 
  }
- 
+
 ul h3{
     display: inline;
 }
 
+span{
+    margin-left: 40px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+    color: white;
+    vertical-align: 7px;
+}
 
